@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.blueGrey[500],
         appBar: AppBar(
           title: Center(
-            child: Text('I Am Rich'),
+            child: Text('Bismillahir Rahmanir Rahim'),
           ),
           backgroundColor: Colors.blueGrey[900],
         ),
